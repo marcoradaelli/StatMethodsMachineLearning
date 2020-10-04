@@ -14,4 +14,5 @@ convolutional_experiments.py: this script allows a simple analysis of the depend
 error_finder.py: this scripts have been used to perform the analysis about the kinds of errors made by the NN.
 
 prepare_dislocated_dataset.py: this script prepairs the dataset by applying the random traslation used in the paragraph about pooling with CNNs.
-displaced_test: training networks on dislocated dataset.
+
+displaced_test.py: training networks on dislocated dataset.
